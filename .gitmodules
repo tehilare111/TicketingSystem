@@ -1,2 +1,3 @@
 [submodule "TicketingSystem"]
+	path = TicketingSystem
 	url = https://github.com/tehilare111/TicketingSystem.git
